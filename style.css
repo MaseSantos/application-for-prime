@@ -4,7 +4,7 @@
 .grid-host{
     display: grid;
     box-sizing: border-box;
-    grid-template-columns: .25fr 1fr .25fr 3fr .25fr; /*fr = fractional units*/
+    grid-template-columns: .25fr 1fr .25fr 3fr .25fr;
     grid-template-rows: .25fr .5fr 2fr .25fr;
 }
 .headshot{
